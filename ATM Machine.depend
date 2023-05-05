@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683306083 source:c:\users\my pc\onedrive\desktop\codeblocks\c\atm machine\atm machine\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+
